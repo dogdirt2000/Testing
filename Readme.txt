@@ -1,3 +1,1 @@
-Adding some text to the Readme file.
-
-Yet another modification.
+Adding some text to the Readme file. Yet another modification.
